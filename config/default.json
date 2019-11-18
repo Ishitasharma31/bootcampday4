@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:ishita31@cluster0-wikyx.mongodb.net/test?retryWrites=true&w=majority",
+    "secret" : "nothing"
+}
